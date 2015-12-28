@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "main": "react.js",
+  "homepage": "https://github.com/sofiangrh/react",
+  "description": "React wrapper around WinJS's controls",
+  "keywords": [
+    "winjs",
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "package.json",
+    "*.nuspec",
+    "Gruntfile.js"
+  ]
+}
